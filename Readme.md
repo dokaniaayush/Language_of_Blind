@@ -1,0 +1,1 @@
+This Website will help blind person to read alphabates, numbers and sentences with their fingers 
